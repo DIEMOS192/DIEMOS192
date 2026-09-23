@@ -8,25 +8,33 @@ Front-end developer working in React and TypeScript, with a strong interest in U
 
 Most of what I build is bilingual, Arabic and English with proper RTL layouts, because that's the audience I build for.
 
-## Featured
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/h-featured-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/h-featured-light.svg"><img alt="Featured" src="assets/blocks/h-featured-light.svg" width="440"></picture></h2>
 
 ### LearnoLab · [learnolab.com](https://learnolab.com)
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/chips-learnolab-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/chips-learnolab-light.svg"><img alt="React 19, TypeScript, Vite, Django 5.2, DRF" src="assets/blocks/chips-learnolab-light.svg" width="401"></picture>
+
 Bilingual, mastery-based learning platform: classrooms, spaced-repetition practice, and analytics dashboards for educators and students. Graduation project, 5-person team.
 
-My part: all of the UI/UX design and roughly 90% of the frontend (React 19, TypeScript, Vite), plus contributions across the Django 5.2 / DRF backend. The repository is private for now.
+My part: all of the UI/UX design and roughly 90% of the frontend, plus contributions across the backend. The repository is private for now.
 
 ### GamerMajlis · [repo](https://github.com/GamerMajlis-platform/frontend-react) · [live](https://gamer-majlis-one.vercel.app)
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/chips-gamermajlis-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/chips-gamermajlis-light.svg"><img alt="React 19, TypeScript, Tailwind, i18next, RTL, Discord OAuth" src="assets/blocks/chips-gamermajlis-light.svg" width="530"></picture>
+
 Gaming community platform: clip and discussion posts, events and tournaments, a marketplace, direct messaging, an AI chatbot guide, and Discord OAuth login.
 
-I built the frontend: React 19, TypeScript, Tailwind, react-i18next with RTL, and a shared component system reused across the Events, Tournaments, Marketplace, Messages and Profile pages.
+I built the frontend, including a shared component system reused across the Events, Tournaments, Marketplace, Messages and Profile pages.
 
 ### Symbol Arcade · [repo](https://github.com/DIEMOS192/symbol-arcade) · [play](https://diemos192.github.io/symbol-arcade/)
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/chips-arcade-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/chips-arcade-light.svg"><img alt="C++, WebAssembly, React, TypeScript, PWA" src="assets/blocks/chips-arcade-light.svg" width="414"></picture>
 
 Browser arcade where the game logic runs in C++ compiled to WebAssembly and the UI is React. Snake, Tic Tac Toe with a C++ computer opponent, Flappy Bird, Pacman Lite. Installable as a PWA. Built with [Zyrex24](https://github.com/Zyrex24).
 
 ### Data Warehouse · [repo](https://github.com/DIEMOS192/DWH-Project)
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/chips-dwh-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/chips-dwh-light.svg"><img alt="SSIS, T-SQL, SQL Server, Star schema, ETL" src="assets/blocks/chips-dwh-light.svg" width="404"></picture>
 
 Built from a real OLTP schema: star schema with 6 dimensions and 3 fact tables, SSIS ETL through a staging layer, scheduled package deployment, and T-SQL analytical queries. 4-person team; I wrote most of the ETL.
 
@@ -46,14 +54,10 @@ Built from a real OLTP schema: star schema with 6 dimensions and 3 fact tables, 
 
 </details>
 
-## Stack
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/h-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/h-stack-light.svg"><img alt="Stack" src="assets/blocks/h-stack-light.svg" width="330"></picture></h2>
 
-**Day to day** — React, TypeScript, Vite, Tailwind CSS, i18next, React Router
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/stack-light.svg"><img alt="Day to day: React, TypeScript, Vite, Tailwind CSS, i18next, React Router | Also comfortable with: Django / DRF, Spring Boot, SQL Server, SSIS, C++ | Tools: Git, Docker, VS Code" src="assets/blocks/stack-light.svg" width="533"></picture>
 
-**Also comfortable with** — Django / DRF, Spring Boot, SQL Server, SSIS, C++
-
-**Tools** — Git, Docker, VS Code
-
-## Elsewhere
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/h-elsewhere-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/h-elsewhere-light.svg"><img alt="Elsewhere" src="assets/blocks/h-elsewhere-light.svg" width="440"></picture></h2>
 
 [Portfolio](https://omartarek-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/omartarek192) · omertarek131@gmail.com
