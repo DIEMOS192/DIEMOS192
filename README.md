@@ -8,7 +8,7 @@ Front-end developer working in React and TypeScript, with a strong interest in U
 
 Most of what I build is bilingual, Arabic and English with proper RTL layouts, because that's the audience I build for.
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/h-featured-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/h-featured-light.svg"><img alt="Featured" src="assets/blocks/h-featured-light.svg" width="440"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/h-featured-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/h-featured-light.svg"><img alt="Featured" src="assets/blocks/h-featured-light.svg" width="880"></picture></h2>
 
 ### LearnoLab · [learnolab.com](https://learnolab.com)
 
@@ -54,10 +54,10 @@ Built from a real OLTP schema: star schema with 6 dimensions and 3 fact tables, 
 
 </details>
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/h-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/h-stack-light.svg"><img alt="Stack" src="assets/blocks/h-stack-light.svg" width="330"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/h-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/h-stack-light.svg"><img alt="Stack" src="assets/blocks/h-stack-light.svg" width="880"></picture></h2>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/stack-light.svg"><img alt="Day to day: React, TypeScript, Vite, Tailwind CSS, i18next, React Router | Also comfortable with: Django / DRF, Spring Boot, SQL Server, SSIS, C++ | Tools: Git, Docker, VS Code" src="assets/blocks/stack-light.svg" width="533"></picture>
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/h-elsewhere-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/h-elsewhere-light.svg"><img alt="Elsewhere" src="assets/blocks/h-elsewhere-light.svg" width="440"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blocks/h-elsewhere-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/blocks/h-elsewhere-light.svg"><img alt="Elsewhere" src="assets/blocks/h-elsewhere-light.svg" width="880"></picture></h2>
 
 [Portfolio](https://omartarek-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/omartarek192) · omertarek131@gmail.com
